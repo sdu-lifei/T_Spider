@@ -3,6 +3,11 @@
 Created on 2013-6-25
 
 @author: tangyi
+
+add by liff 0428. test git commit.
+
+
+
 '''
 
 import sys, string, os, re, time
